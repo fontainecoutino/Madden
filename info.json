@@ -1,0 +1,57 @@
+{
+    "Season": "1",
+    "fontainePlayed": [
+        "Broncos",
+        "Raiders",
+        "Chargers",
+        "Titans",
+        "Steelers",
+        "Dolphins",
+        "49ers",
+        "Browns",
+        "Bills",
+        "Panthers",
+        "Jets"
+    ],
+    "fontaineWon": [
+        "Raiders",
+        "Chargers",
+        "Titans",
+        "Steelers",
+        "Browns",
+        "Panthers"
+    ],
+    "isaiahPlayed": [
+        "Patriots",
+        "Colts",
+        "Bengals",
+        "Vikings",
+        "Saints",
+        "Football Team",
+        "Giants",
+        "Buccaneers",
+        "Packers",
+        "Chiefs",
+        "Cardinals"
+    ],
+    "isaiahWon": [
+        "Patriots",
+        "Football Team",
+        "Giants",
+        "Packers",
+        "Cardinals"
+    ],
+    "matchups": [
+        "Broncos-Patriots",
+        "Raiders-Colts",
+        "Chargers-Bengals",
+        "Titans-Vikings",
+        "Steelers-Saints",
+        "Dolphins-Football Team",
+        "49ers-Giants",
+        "Browns-Buccaneers",
+        "Bills-Packers",
+        "Panthers-Chiefs",
+        "Jets-Cardinals"
+    ]
+}
